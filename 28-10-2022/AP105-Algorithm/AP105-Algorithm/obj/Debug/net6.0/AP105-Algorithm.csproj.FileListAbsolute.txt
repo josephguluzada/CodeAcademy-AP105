@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\bin\Debug\net6.0\AP105-Algorithm.exe
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\bin\Debug\net6.0\AP105-Algorithm.deps.json
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\bin\Debug\net6.0\AP105-Algorithm.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\bin\Debug\net6.0\AP105-Algorithm.dll
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\bin\Debug\net6.0\AP105-Algorithm.pdb
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.dll
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\refint\AP105-Algorithm.dll
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.pdb
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\AP105-Algorithm.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\28-10-2022\AP105-Algorithm\AP105-Algorithm\obj\Debug\net6.0\ref\AP105-Algorithm.dll
