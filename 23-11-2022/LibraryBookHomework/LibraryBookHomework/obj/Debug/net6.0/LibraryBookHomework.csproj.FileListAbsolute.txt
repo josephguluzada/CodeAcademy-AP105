@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\bin\Debug\net6.0\LibraryBookHomework.exe
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\bin\Debug\net6.0\LibraryBookHomework.deps.json
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\bin\Debug\net6.0\LibraryBookHomework.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\bin\Debug\net6.0\LibraryBookHomework.dll
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\bin\Debug\net6.0\LibraryBookHomework.pdb
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.dll
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\refint\LibraryBookHomework.dll
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.pdb
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\LibraryBookHomework.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\23-11-2022\LibraryBookHomework\LibraryBookHomework\obj\Debug\net6.0\ref\LibraryBookHomework.dll

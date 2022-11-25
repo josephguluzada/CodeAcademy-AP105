@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\bin\Debug\net6.0\MyCustomLibrary.deps.json
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\bin\Debug\net6.0\MyCustomLibrary.dll
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\bin\Debug\net6.0\MyCustomLibrary.pdb
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\MyCustomLibrary.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\MyCustomLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\MyCustomLibrary.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\MyCustomLibrary.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\MyCustomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\MyCustomLibrary.dll
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\refint\MyCustomLibrary.dll
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\MyCustomLibrary.pdb
+C:\Users\asus\Desktop\University\AP105\24-11-2022\AccessModifiers\MyCustomLibrary\obj\Debug\net6.0\ref\MyCustomLibrary.dll

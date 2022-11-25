@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\bin\Debug\net6.0\ClassBaseThis.exe
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\bin\Debug\net6.0\ClassBaseThis.deps.json
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\bin\Debug\net6.0\ClassBaseThis.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\bin\Debug\net6.0\ClassBaseThis.dll
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\bin\Debug\net6.0\ClassBaseThis.pdb
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.dll
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\refint\ClassBaseThis.dll
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.pdb
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ClassBaseThis.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\ClassBaseThis\obj\Debug\net6.0\ref\ClassBaseThis.dll

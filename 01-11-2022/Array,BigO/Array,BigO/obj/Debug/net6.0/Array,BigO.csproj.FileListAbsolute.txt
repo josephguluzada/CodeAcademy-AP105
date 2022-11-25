@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\bin\Debug\net6.0\Array,BigO.exe
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\bin\Debug\net6.0\Array,BigO.deps.json
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\bin\Debug\net6.0\Array,BigO.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\bin\Debug\net6.0\Array,BigO.dll
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\bin\Debug\net6.0\Array,BigO.pdb
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.dll
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\refint\Array,BigO.dll
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.pdb
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\Array,BigO.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\31-10-2022\Array,BigO\Array,BigO\obj\Debug\net6.0\ref\Array,BigO.dll

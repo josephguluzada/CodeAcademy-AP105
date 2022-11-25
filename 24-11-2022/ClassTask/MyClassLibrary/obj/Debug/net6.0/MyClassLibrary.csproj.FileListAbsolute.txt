@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.deps.json
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.dll
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.dll
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\refint\MyClassLibrary.dll
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\asus\Desktop\University\AP105\24-11-2022\ClassTask\MyClassLibrary\obj\Debug\net6.0\ref\MyClassLibrary.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\bin\Debug\net6.0\LibraryApplication.exe
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\bin\Debug\net6.0\LibraryApplication.deps.json
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\bin\Debug\net6.0\LibraryApplication.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\bin\Debug\net6.0\LibraryApplication.dll
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\bin\Debug\net6.0\LibraryApplication.pdb
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.dll
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\refint\LibraryApplication.dll
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.pdb
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\LibraryApplication.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\22-11-2022\LibraryApplication\LibraryApplication\obj\Debug\net6.0\ref\LibraryApplication.dll

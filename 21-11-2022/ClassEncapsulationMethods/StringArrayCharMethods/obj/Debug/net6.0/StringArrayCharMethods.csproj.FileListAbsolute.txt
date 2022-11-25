@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\bin\Debug\net6.0\StringArrayCharMethods.exe
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\bin\Debug\net6.0\StringArrayCharMethods.deps.json
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\bin\Debug\net6.0\StringArrayCharMethods.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\bin\Debug\net6.0\StringArrayCharMethods.dll
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\bin\Debug\net6.0\StringArrayCharMethods.pdb
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.dll
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\refint\StringArrayCharMethods.dll
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.pdb
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\StringArrayCharMethods.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\21-11-2022\ClassEncapsulationMethods\StringArrayCharMethods\obj\Debug\net6.0\ref\StringArrayCharMethods.dll
