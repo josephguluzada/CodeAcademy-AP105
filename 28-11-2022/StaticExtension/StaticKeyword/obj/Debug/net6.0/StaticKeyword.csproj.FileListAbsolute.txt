@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\bin\Debug\net6.0\StaticKeyword.exe
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\bin\Debug\net6.0\StaticKeyword.deps.json
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\bin\Debug\net6.0\StaticKeyword.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\bin\Debug\net6.0\StaticKeyword.dll
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\bin\Debug\net6.0\StaticKeyword.pdb
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.dll
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\refint\StaticKeyword.dll
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.pdb
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\StaticKeyword.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\StaticKeyword\obj\Debug\net6.0\ref\StaticKeyword.dll

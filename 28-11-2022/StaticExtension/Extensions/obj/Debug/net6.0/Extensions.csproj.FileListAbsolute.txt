@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\bin\Debug\net6.0\Extensions.exe
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\bin\Debug\net6.0\Extensions.deps.json
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\bin\Debug\net6.0\Extensions.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\bin\Debug\net6.0\Extensions.dll
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\bin\Debug\net6.0\Extensions.pdb
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.dll
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\refint\Extensions.dll
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.pdb
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\Extensions.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\28-11-2022\StaticExtension\Extensions\obj\Debug\net6.0\ref\Extensions.dll

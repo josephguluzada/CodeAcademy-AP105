@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\bin\Debug\net6.0\Enums.exe
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\bin\Debug\net6.0\Enums.deps.json
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\bin\Debug\net6.0\Enums.dll
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\bin\Debug\net6.0\Enums.pdb
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.dll
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\refint\Enums.dll
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.pdb
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\30-11-2022\StructIndexerEnumException\Enums\obj\Debug\net6.0\ref\Enums.dll
