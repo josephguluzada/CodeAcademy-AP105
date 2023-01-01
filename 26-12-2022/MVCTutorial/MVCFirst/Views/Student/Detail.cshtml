@@ -1,0 +1,10 @@
+﻿@model Student;
+
+
+@if(Model is not null){
+
+    <h1>@Model.Id - @Model.Name @Model.Age</h1>
+}
+else{
+    <h1 style="color: red">Telebe tapilmadi...</h1>
+}

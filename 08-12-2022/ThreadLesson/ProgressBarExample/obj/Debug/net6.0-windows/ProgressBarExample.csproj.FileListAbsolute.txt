@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\bin\Debug\net6.0-windows\ProgressBarExample.exe
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\bin\Debug\net6.0-windows\ProgressBarExample.deps.json
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\bin\Debug\net6.0-windows\ProgressBarExample.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\bin\Debug\net6.0-windows\ProgressBarExample.dll
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\bin\Debug\net6.0-windows\ProgressBarExample.pdb
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.Form1.resources
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.dll
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\refint\ProgressBarExample.dll
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.pdb
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ProgressBarExample.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ProgressBarExample\obj\Debug\net6.0-windows\ref\ProgressBarExample.dll

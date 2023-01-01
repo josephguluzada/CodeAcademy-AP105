@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\bin\Debug\net6.0\UpcastingDowncasting.exe
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\bin\Debug\net6.0\UpcastingDowncasting.deps.json
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\bin\Debug\net6.0\UpcastingDowncasting.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\bin\Debug\net6.0\UpcastingDowncasting.dll
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\bin\Debug\net6.0\UpcastingDowncasting.pdb
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.dll
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\refint\UpcastingDowncasting.dll
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.pdb
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\01-12-2022\ExceptionUpcastingDowncasting\UpcastingDowncasting\obj\Debug\net6.0\ref\UpcastingDowncasting.dll

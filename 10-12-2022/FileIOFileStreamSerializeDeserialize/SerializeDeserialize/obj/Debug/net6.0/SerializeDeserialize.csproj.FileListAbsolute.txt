@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.exe
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.deps.json
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.dll
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\bin\Debug\net6.0\SerializeDeserialize.pdb
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.dll
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\refint\SerializeDeserialize.dll
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.pdb
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\SerializeDeserialize.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\10-12-2022\FileIOFileStreamSerializeDeserialize\SerializeDeserialize\obj\Debug\net6.0\ref\SerializeDeserialize.dll

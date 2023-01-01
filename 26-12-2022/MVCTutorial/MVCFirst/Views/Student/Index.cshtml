@@ -1,0 +1,8 @@
+﻿@model List<Student>;
+
+<ul>
+    @foreach (Student std in Model)
+    {
+        <li>@std.Id - @std.Name @std.Age</li>
+    }
+</ul>

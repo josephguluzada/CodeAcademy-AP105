@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.exe
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.deps.json
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.dll
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.pdb
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.dll
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\refint\ThreadLesson.dll
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.pdb
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\08-12-2022\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ref\ThreadLesson.dll

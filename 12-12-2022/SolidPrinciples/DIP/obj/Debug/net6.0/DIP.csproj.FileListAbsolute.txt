@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\bin\Debug\net6.0\DIP.exe
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\bin\Debug\net6.0\DIP.deps.json
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\bin\Debug\net6.0\DIP.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\bin\Debug\net6.0\DIP.dll
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\bin\Debug\net6.0\DIP.pdb
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.dll
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\refint\DIP.dll
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.pdb
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\DIP.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\12-12-2022\SolidPrinciples\DIP\obj\Debug\net6.0\ref\DIP.dll

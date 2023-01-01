@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\bin\Debug\net6.0\CollectionLesson.exe
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\bin\Debug\net6.0\CollectionLesson.deps.json
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\bin\Debug\net6.0\CollectionLesson.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\bin\Debug\net6.0\CollectionLesson.dll
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\bin\Debug\net6.0\CollectionLesson.pdb
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.dll
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\refint\CollectionLesson.dll
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.pdb
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\CollectionLesson.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\CollectionLesson\obj\Debug\net6.0\ref\CollectionLesson.dll

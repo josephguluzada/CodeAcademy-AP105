@@ -1,0 +1,24 @@
+﻿@model HomeViewModel
+
+
+
+<ul>
+    @foreach (Group item in Model.Groups)
+    {
+        <li>@item.Id - @item.Name</li>
+    }
+</ul>
+
+<ul>
+    @foreach (Teacher item in Model.Teachers)
+    {
+        <li>@item.Id - @item.Name @item.Experience</li>
+    }
+</ul>
+
+    <ul>
+        @foreach (Student item in Model.Students)
+    {
+        <li>@item.Id - @item.Name @item.Age @item.TeacherId</li>
+    }
+    </ul>

@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.exe
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.deps.json
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.dll
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\bin\Debug\net6.0\GenericCollections.pdb
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.dll
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\refint\GenericCollections.dll
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.pdb
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\GenericCollections.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\02-12-2022\GenericsCollections\GenericCollections\obj\Debug\net6.0\ref\GenericCollections.dll

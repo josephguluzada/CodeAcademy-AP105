@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\bin\Debug\net6.0\ReflectionsLesson.exe
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\bin\Debug\net6.0\ReflectionsLesson.deps.json
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\bin\Debug\net6.0\ReflectionsLesson.runtimeconfig.json
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\bin\Debug\net6.0\ReflectionsLesson.dll
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\bin\Debug\net6.0\ReflectionsLesson.pdb
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.dll
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\refint\ReflectionsLesson.dll
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.pdb
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ReflectionsLesson.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\AP105\06-12-2022\ReflectionsLesson\ReflectionsLesson\obj\Debug\net6.0\ref\ReflectionsLesson.dll
