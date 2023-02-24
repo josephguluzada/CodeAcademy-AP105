@@ -1,0 +1,42 @@
+﻿@model Slider
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create a slider</h1>
+
+<div class="container">
+    <form method="post" asp-action="create">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title1" class="form-label">Title1</label>
+                <input class="form-control" asp-for="Title1" placeholder="Title1">
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title2" class="form-label">Title2</label>
+                <input class="form-control" asp-for="Title2" placeholder="Title2">
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="RedirectUrl" class="form-label">RedirectUrl</label>
+                <input class="form-control" asp-for="RedirectUrl" placeholder="RedirectUrl">
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="RedirectUrlText" class="form-label">RedirectUrlText</label>
+                <input class="form-control" asp-for="RedirectUrlText" placeholder="RedirectUrlText">
+            </div>
+        </div>
+        <div>
+            <label asp-for="Desc" class="form-label">Desc</label>
+            <textarea style="width:500px; height:100px" class="form-control" asp-for="Desc" placeholder="Desc"></textarea>
+        </div>
+        <div style="margin-bottom:20px">
+            <label asp-for="Image" class="form-label">Image</label>
+            <input class="form-control" asp-for="Image" placeholder="Image">
+        </div>
+
+        <div style="display:flex; justify-content:center; align-items:center">
+            <button type="submit" class="btn btn-primary">Create</button>
+        </div>
+    </form>
+</div>
+

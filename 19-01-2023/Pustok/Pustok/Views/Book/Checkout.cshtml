@@ -1,0 +1,121 @@
+﻿@model OrderViewModel
+@{
+	double totalPrice = 0;
+}
+
+	<div class="site-wrapper" id="top">
+		<section class="breadcrumb-section">
+			<h2 class="sr-only">Site Breadcrumb</h2>
+			<div class="container">
+				<div class="breadcrumb-contents">
+					<nav aria-label="breadcrumb">
+						<ol class="breadcrumb">
+							<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+							<li class="breadcrumb-item active">Checkout</li>
+						</ol>
+					</nav>
+				</div>
+			</div>
+		</section>
+		<main id="content" class="page-section inner-page-sec-padding-bottom space-db--20">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<!-- Checkout Form s-->
+						<div class="checkout-form">
+							<div class="row row-40">
+								
+								<div class="col-lg-7 mb--20">
+									<!-- Billing Address -->
+									<div id="billing-form" class="mb-40">
+										<h4 class="checkout-title">Billing Address</h4>
+										<form id="formOrder" asp-action="order" asp-controller="book" method="post">
+										<div class="row">
+											<div class="col-md-6 col-12 mb--20">
+												<label asp-for="FullName">FullName</label>
+												<input asp-for="FullName"  placeholder="FullName">
+											</div>
+
+											<div class="col-md-6 mb--20">
+												<label asp-for="Country">Country</label>
+												<input asp-for="Country"  placeholder="Country">
+											</div>
+											<div class="col-md-6 col-12 mb--20">
+												<label asp-for="Email">Email Address*</label>
+												<input asp-for="Email"  placeholder="Email Address">
+											</div>
+											<div class="col-md-6 col-12 mb--20">
+												<label asp-for="PhoneNumber">Phone no*</label>
+												<input asp-for="PhoneNumber"  placeholder="Phone number">
+											</div>
+											<div class="col-12 mb--20">
+												<label >Address*</label>
+												<input asp-for="Address1"  placeholder="Address line 1">
+												<input asp-for="Address2"  placeholder="Address line 2">
+											</div>
+											<div class="col-md-6 col-12 mb--20">
+												<label asp-for="City">Town/City*</label>
+												<input asp-for="City"  placeholder="Town/City">
+											</div>
+											<div class="col-md-6 col-12 mb--20">
+												<label asp-for="ZipCode">Zip Code*</label>
+												<input asp-for="ZipCode"  placeholder="Zip Code">
+											</div>
+										</div>
+										<div class="order-note-block mt--30">
+											<label asp-for="Note" for="order-note">Order notes</label>
+											<textarea asp-for="Note" id="order-note" cols="30" rows="10" class="order-note"
+													  placeholder="Notes about your order, e.g. special notes for delivery."></textarea>
+										</div>
+									</form>
+									</div>
+								</div>
+								<div class="col-lg-5">
+									<div class="row">
+										<!-- Cart Total -->
+										<div class="col-12">
+											<div class="checkout-cart-total">
+												<h2 class="checkout-title">YOUR ORDER</h2>
+												<h4>Product <span>Total</span></h4>
+												<ul>
+													@foreach (var bookVM in Model.BookCheckoutViewModels)
+												{
+													double price = (bookVM.Book.SalePrice * (1 - bookVM.Book.DiscountPrice / 100))* bookVM.Count ;
+
+													<li>
+														<span class="left">@bookVM.Book.Name X @bookVM.Count</span><span class="right">$@(price.ToString("0.00"))</span>
+													</li>
+
+													totalPrice += price;
+												}
+													
+												</ul>
+											<h4>Total Price<span>$@(totalPrice.ToString("0.00"))</span></h4>
+												<div class="method-notice mt--25">
+													<article>
+														<h3 class="d-none sr-only">blog-article</h3>
+														Sorry, it seems that there are no available payment methods for
+														your state. Please contact us if you
+														require
+														assistance
+														or wish to make alternate arrangements.
+													</article>
+												</div>
+												<div class="term-block">
+													<input type="checkbox" id="accept_terms2">
+													<label for="accept_terms2">I’ve read and accept the terms &
+														conditions</label>
+												</div>
+											<button type="submit" form="formOrder" class="place-order w-100">Place order</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+	

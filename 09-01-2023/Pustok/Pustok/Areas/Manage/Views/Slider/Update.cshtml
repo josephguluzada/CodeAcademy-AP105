@@ -1,0 +1,52 @@
+﻿@model Slider
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update a slider</h1>
+
+<div class="container">
+    <form method="post" asp-action="update" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title1" class="form-label">Title1</label>
+                <input class="form-control" asp-for="Title1" placeholder="Title1">
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title2" class="form-label">Title2</label>
+                <input class="form-control" asp-for="Title2" placeholder="Title2">
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="RedirectUrl" class="form-label">RedirectUrl</label>
+                <input class="form-control" asp-for="RedirectUrl" placeholder="RedirectUrl">
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="RedirectUrlText" class="form-label">RedirectUrlText</label>
+                <input class="form-control" asp-for="RedirectUrlText" placeholder="RedirectUrlText">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label asp-for="Desc" class="form-label">Desc</label>
+                <textarea style="width:500px; height:100px" class="form-control" asp-for="Desc" placeholder="Desc"></textarea>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Order" class="form-label">Order</label>
+                <input class="form-control" asp-for="Order" placeholder="Order">
+            </div>
+        </div>
+
+        <div style="margin-bottom:20px">
+            <label asp-for="ImageFile" class="form-label">ImageFile</label>
+            <input class="form-control" asp-for="ImageFile" placeholder="ImageFile">
+            <span asp-validation-for="ImageFile" class="text-danger"></span>
+        </div>
+        <div style="width: 250px">
+            <img style="max-width:100%" src="~/uploads/sliders/@Model.Image" />
+        </div>
+
+        <div style="display:flex; justify-content:center; align-items:center">
+            <button type="submit" class="btn btn-primary">Update</button>
+        </div>
+    </form>
+</div>

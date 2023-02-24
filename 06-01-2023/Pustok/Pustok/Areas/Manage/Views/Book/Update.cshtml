@@ -1,0 +1,74 @@
+﻿@model Book
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Create a book</h1>
+
+<div class="container-fluid">
+    <form method="post" asp-action="update">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input class="form-control" asp-for="Name" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Code" class="form-label">Code</label>
+                <input class="form-control" asp-for="Code" placeholder="Code">
+                <span asp-validation-for="Code" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="CostPrice" class="form-label">CostPrice</label>
+                <input class="form-control" asp-for="CostPrice" placeholder="CostPrice">
+                <span asp-validation-for="CostPrice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="SalePrice" class="form-label">SalePrice</label>
+                <input class="form-control" asp-for="SalePrice" placeholder="SalePrice">
+                <span asp-validation-for="SalePrice" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-3">
+                <label asp-for="Desc" class="form-label">Desc</label>
+                <textarea class="form-control" rows="3" asp-for="Desc" placeholder="Desc"></textarea>
+                <span asp-validation-for="Desc" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="DiscountPrice" class="form-label">DiscountPrice</label>
+                <input class="form-control" asp-for="DiscountPrice" placeholder="DiscountPrice">
+                <span asp-validation-for="DiscountPrice" class="text-danger"></span>
+            </div>
+            <div class="form-check col-md-2" style="padding:38px">
+                <input class="form-check-input" asp-for="IsAvailable">
+                <label class="form-check-label" asp-for="IsAvailable">
+                    IsAvailable
+                </label>
+                <span asp-validation-for="IsAvailable" class="text-danger"></span>
+            </div>
+            <div class="col-md-2">
+                <label asp-for="AuthorId" class="form-label">Authors</label>
+                <select class="form-select" asp-for="AuthorId" asp-items="@(new SelectList(ViewBag.Authors,"Id","Fullname"))">
+                </select>
+                <span asp-validation-for="IsAvailable" class="text-danger"></span>
+            </div>
+            <div class="col-md-2">
+                <label asp-for="GenreId" class="form-label">Genres</label>
+                <select class="form-select" asp-for="GenreId" asp-items="@(new SelectList(ViewBag.Genres,"Id","Name"))">
+                </select>
+                <span asp-validation-for="IsAvailable" class="text-danger"></span>
+            </div>
+        </div>
+
+        @*<div style="margin-bottom:20px">
+        <label asp-for="Image" class="form-label">Image</label>
+        <input class="form-control" asp-for="Image" placeholder="Image">
+        </div>*@
+
+        <div style="display:flex; justify-content:center; align-items:center">
+            <button type="submit" class="btn btn-primary">Update</button>
+        </div>
+    </form>
+</div>
+
